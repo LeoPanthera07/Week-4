@@ -1,5 +1,3 @@
-from math import isclose
-
 def find_max_min(data):
     maximum = data[0]
     minimum = data[0]
